@@ -1,1 +1,2 @@
-# excepciones_en_go
+# Manejo de excepciones: DEFER, PANIC & RECOVER
+
